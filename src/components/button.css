@@ -1,0 +1,6 @@
+.button-orange{
+    /* background-color: #ff8f54 !important; */
+    color: whitesmoke !important;
+    font-weight: 600 !important;
+    background: linear-gradient(45deg, #6e798d 10%, #c4b488 110%) !important
+}

@@ -1,0 +1,31 @@
+/* //untuk backend */
+.login-kotak{
+    width: 50%;
+    border: whitesmoke 5px solid;
+    height:55%;
+    border-radius: 20px;
+    color: whitesmoke;
+    flex-direction: column;
+}
+
+.login-placeholder::placeholder{
+    color: white !important;
+}   
+
+
+
+
+
+/* //untuk frontend
+.login-kotak{
+    width: 50%;
+    border: whitesmoke 5px solid;
+    height:55%;
+    border-radius: 20px;
+    color: whitesmoke;
+    flex-direction: column;
+}
+
+.login-placeholder::placeholder{
+    color: white !important;
+}    */

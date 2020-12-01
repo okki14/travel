@@ -1,0 +1,317 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "okki",
+      "password": "abcd",
+      "role": "user"
+    },
+    {
+      "id": 2,
+      "username": "admin",
+      "password": "root",
+      "role": "admin"
+    },
+    {
+      "username": "pras",
+      "password": "hahihewk",
+      "role": "user",
+      "id": 3
+    }
+  ],
+  "products": [
+    {
+      "namatrip": "Gunung Semeru",
+      "gambar": "https://ourtripfirst.com/wp-content/uploads/2018/06/semeru2-700x415.jpg",
+      "tanggalmulai": 1632182400000,
+      "tanggalberakhir": 1632268800000,
+      "harga": "200000",
+      "deskripsi": "3.676 mdpl",
+      "id": 1
+    },
+    {
+      "namatrip": "Gunung Bromo",
+      "gambar": "https://merahputih.com/media/66/70/bb/6670bbaf28426e345dbf1dcde56f2f2f.jpeg",
+      "tanggalmulai": 1613433600000,
+      "tanggalberakhir": 1614211200000,
+      "harga": "300002",
+      "deskripsi": "2.329 mdpl",
+      "id": 2
+    },
+    {
+      "namatrip": "Papandayan",
+      "gambar": "https://cdn-2.tstatic.net/travel/foto/bank/images/gunung-papandayan_20180731_153019.jpg",
+      "tanggalmulai": 1611014400000,
+      "tanggalberakhir": 1611878400000,
+      "harga": "200000",
+      "deskripsi": "2.665 mdpl",
+      "id": 3
+    },
+    {
+      "namatrip": "Gunung Rinjani",
+      "gambar": "https://1.bp.blogspot.com/-CS_pF8Su1Ss/XQOdBlKcpHI/AAAAAAAAJAo/4TzQFZR6tlEGwsLumyYnoBzi8aOve8hqQCLcBGAs/s1600/IMG_14062019_200547_%2528650_x_400_piksel%2529.jpg",
+      "tanggalmulai": 1605571200000,
+      "tanggalberakhir": 1605830400000,
+      "harga": "500000",
+      "deskripsi": "3.726 mdpl",
+      "id": 4
+    },
+    {
+      "namatrip": "Gunung Puncak Jaya Wijaya",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/zpfSuGAgbloLo2i1kaJBxNJq0lY=/640x640/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2713381/original/071515100_1548428477-Gunung_Carstensz.JPG",
+      "tanggalmulai": 1609459200000,
+      "tanggalberakhir": 1609891200000,
+      "harga": "999000",
+      "deskripsi": "4.884 mdpl",
+      "id": 5
+    }
+  ],
+  "carts": [],
+  "transactions": [
+    {
+      "status": "Completed",
+      "userId": 1,
+      "tanggalPembayaran": 1600228677900,
+      "metode": "cc",
+      "buktipembayaran": "321321313123123",
+      "id": 2
+    },
+    {
+      "status": "Completed",
+      "userId": 1,
+      "tanggalPembayaran": 1600229071836,
+      "metode": "upload",
+      "buktipembayaran": "https://www.pakaiatm.com/wp-content/uploads/2020/03/Contoh-Bukti-Transfer-BRI-Asli-atau-Palsu.jpg",
+      "id": 3
+    },
+    {
+      "status": "Completed",
+      "userId": 1,
+      "tanggalPembayaran": 1600438527417,
+      "metode": "cc",
+      "buktipembayaran": "32312312321321321323",
+      "id": 4
+    },
+    {
+      "status": "Completed",
+      "userId": 1,
+      "tanggalPembayaran": 1600510255731,
+      "metode": "cc",
+      "buktipembayaran": "4012888888881881",
+      "id": 5
+    },
+    {
+      "status": "Completed",
+      "userId": 1,
+      "tanggalPembayaran": 1600521748562,
+      "metode": "upload",
+      "buktipembayaran": "https://ecs7.tokopedia.net/img/cache/700/product-1/2020/1/21/5677080/5677080_cf2ef623-8e05-4c90-80ec-0a6edb107d3e_648_648.jpg",
+      "id": 6
+    },
+    {
+      "status": "Completed",
+      "userId": 1,
+      "tanggalPembayaran": 1600948473518,
+      "metode": "upload",
+      "buktipembayaran": "",
+      "id": 7
+    },
+    {
+      "status": "Completed",
+      "userId": 1,
+      "tanggalPembayaran": 1600950222917,
+      "metode": "upload",
+      "buktipembayaran": "",
+      "id": 8
+    },
+    {
+      "status": "Completed",
+      "userId": 1,
+      "tanggalPembayaran": 1601019375035,
+      "metode": "upload",
+      "buktipembayaran": "",
+      "id": 9
+    },
+    {
+      "status": "Completed",
+      "userId": 1,
+      "tanggalPembayaran": 1601027918080,
+      "metode": "upload",
+      "buktipembayaran": "",
+      "id": 10
+    },
+    {
+      "status": "Completed",
+      "userId": 1,
+      "tanggalPembayaran": 1601105195557,
+      "metode": "upload",
+      "buktipembayaran": "",
+      "id": 11
+    },
+    {
+      "status": "Completed",
+      "userId": 15,
+      "tanggalPembayaran": 1601107041732,
+      "metode": "upload",
+      "buktipembayaran": "",
+      "id": 12
+    },
+    {
+      "status": "Completed",
+      "userId": 16,
+      "tanggalPembayaran": 1601275706020,
+      "metode": "upload",
+      "buktipembayaran": "321321313123123",
+      "id": 13
+    }
+  ],
+  "transactionsdetails": [
+    {
+      "transactionId": 2,
+      "productId": 5,
+      "price": 999000,
+      "qty": null,
+      "id": 3
+    },
+    {
+      "transactionId": 2,
+      "productId": 5,
+      "price": 999000,
+      "qty": 1,
+      "id": 4
+    },
+    {
+      "transactionId": 3,
+      "productId": 2,
+      "price": 300002,
+      "qty": 1,
+      "id": 5
+    },
+    {
+      "transactionId": 3,
+      "productId": 2,
+      "price": 300002,
+      "qty": 1,
+      "id": 6
+    },
+    {
+      "transactionId": 3,
+      "productId": 4,
+      "price": 500000,
+      "qty": 1,
+      "id": 7
+    },
+    {
+      "transactionId": 5,
+      "productId": 3,
+      "price": 200000,
+      "qty": 1,
+      "id": 8
+    },
+    {
+      "transactionId": 6,
+      "productId": 1,
+      "price": 200000,
+      "qty": 1,
+      "id": 9
+    },
+    {
+      "transactionId": 6,
+      "productId": 2,
+      "price": 300002,
+      "qty": 1,
+      "id": 10
+    },
+    {
+      "transactionId": 7,
+      "productId": 1,
+      "price": 200000,
+      "qty": 1,
+      "id": 11
+    },
+    {
+      "transactionId": 7,
+      "productId": 4,
+      "price": 500000,
+      "qty": 2,
+      "id": 49
+    },
+    {
+      "transactionId": 8,
+      "productId": 1,
+      "price": 200000,
+      "qty": 1,
+      "id": 50
+    },
+    {
+      "transactionId": 9,
+      "productId": 1,
+      "price": 200000,
+      "qty": 1,
+      "id": 51
+    },
+    {
+      "transactionId": 9,
+      "productId": 5,
+      "price": 999000,
+      "qty": 1,
+      "id": 52
+    },
+    {
+      "transactionId": 9,
+      "productId": 1,
+      "price": 200000,
+      "qty": 3,
+      "id": 53
+    },
+    {
+      "transactionId": 10,
+      "productId": 5,
+      "price": 999000,
+      "qty": 2,
+      "id": 54
+    },
+    {
+      "transactionId": 10,
+      "productId": 5,
+      "price": 999000,
+      "qty": 2,
+      "id": 55
+    },
+    {
+      "transactionId": 11,
+      "productId": 4,
+      "price": 500000,
+      "qty": 1,
+      "id": 56
+    },
+    {
+      "transactionId": 11,
+      "productId": 4,
+      "price": 500000,
+      "qty": 1,
+      "id": 57
+    },
+    {
+      "transactionId": 12,
+      "productId": 1,
+      "price": 200000,
+      "qty": 4,
+      "id": 58
+    },
+    {
+      "transactionId": 12,
+      "productId": 3,
+      "price": 200000,
+      "qty": 6,
+      "id": 59
+    },
+    {
+      "transactionId": 13,
+      "productId": 3,
+      "price": 200000,
+      "qty": 1,
+      "id": 60
+    }
+  ]
+}

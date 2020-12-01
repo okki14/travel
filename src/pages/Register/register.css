@@ -1,0 +1,29 @@
+/* //untuk backend */
+.login-box{
+    width: 50%;
+    border: whitesmoke 5px solid;
+    height:60%;
+    border-radius: 20px;
+    color: whitesmoke;
+    flex-direction: column;
+}
+
+.login-placeholder::placeholder{
+    color: white !important;
+}
+
+
+
+/* //untuk frontend
+.login-box{
+    width: 50%;
+    border: whitesmoke 5px solid;
+    height:60%;
+    border-radius: 20px;
+    color: whitesmoke;
+    flex-direction: column;
+}
+
+.login-placeholder::placeholder{
+    color: white !important;
+} */
